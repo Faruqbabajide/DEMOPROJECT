@@ -1,7 +1,7 @@
 import type { User, UpdateProfilePayload } from "../types";
 
 // The URL of the backend server we created (running on port 5000)
-const API_URL = "https://demoproject-7qwm.vercel.app:5000/api/profile";
+const API_URL = "https://demoproject-7qwm.vercel.app/api/profile";
 
 // Endpoint 1: Fetch Profile [cite: 20-22]
 // Real network call to GET /api/profile
