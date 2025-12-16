@@ -51,5 +51,5 @@ app.put('/api/profile', async (req, res) => {
 
 // Start the server
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Server running on https://demoproject-7qwm.vercel.app:${PORT}`);
 });
